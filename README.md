@@ -35,3 +35,5 @@ The following images show the web application's appearance and functionality:
 ![Shows employee information in the console of an employee payroll tracker.](./Assets/03-javascript-homework-console-demo.png)
 
 ## Live Page
+
+https://jmrobertson89.github.io/Employee-Payroll-Tracker/
