@@ -2,7 +2,7 @@
 
 ## Description
 
-I was tasked eith creating an application that enables a payroll manager to view and manage employee payroll data.
+I was tasked with creating an application that enables a payroll manager to view and manage employee payroll data.
 
 ## User Story
 
